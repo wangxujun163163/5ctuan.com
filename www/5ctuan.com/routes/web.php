@@ -11,7 +11,7 @@
 |
 */
 
-
+#test view
 Route::get('/', function () {
     return view('index/index');
 });
